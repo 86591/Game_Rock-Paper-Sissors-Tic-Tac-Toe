@@ -1,4 +1,4 @@
-# Game_Rock-Paper-Sissors-Tic-Tac-Toe
+# Rock Paper Scissors & Tic-Tac-Toe - Client and Server model
 
 여러가지 유의사항들
 - 기본적으로 모든 전송은 byte[] 타입이다.
